@@ -113,4 +113,4 @@ languages = ["Python", "C++", "Java"]
 for i in range(len(languages)):
     print(i, languages[i])
 
-#len will return 3. Passing 3 to range gives us 0, 1, 2
+#len will return 3. Passing 3 to range gives us 0, 1,
